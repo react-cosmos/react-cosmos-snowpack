@@ -1,4 +1,4 @@
-# New Project
+# React Cosmos + Snowpack = ❤️
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
